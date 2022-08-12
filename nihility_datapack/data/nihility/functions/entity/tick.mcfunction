@@ -1,0 +1,1 @@
+execute if entity @s[tag=nihility.block] run function nihility:block/tick

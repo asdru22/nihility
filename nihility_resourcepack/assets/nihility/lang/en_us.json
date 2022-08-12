@@ -1,4 +1,7 @@
 {
     "pack.nihility": "Nihility",
-    "item.nihility.magnetite": "Magntite"
+
+    "item.nihility.magnetite": "Magntite",
+
+    "block.nihility.sculked_shell": "Sculked Shell"
 }
