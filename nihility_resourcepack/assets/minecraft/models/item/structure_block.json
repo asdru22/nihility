@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/structure_block",
+  "overrides": [
+      {
+          "predicate": {
+              "custom_model_data": 6906000
+          },
+          "model": "nihility:item/magnetite"
+      }
+  ]
+}

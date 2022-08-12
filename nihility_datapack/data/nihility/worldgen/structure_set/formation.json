@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "nihility:formation",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 122340124,
+    "spacing": 35,
+    "separation": 24,
+    "type": "minecraft:random_spread"
+  }
+}
