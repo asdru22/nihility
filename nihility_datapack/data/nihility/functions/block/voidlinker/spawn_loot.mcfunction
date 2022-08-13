@@ -1,2 +1,2 @@
-loot spawn ~ ~ ~ loot nihility:blocks/voidlinker
+loot spawn ~ ~ ~ loot nihility:block/voidlinker
 kill @s

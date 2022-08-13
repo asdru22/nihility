@@ -1,2 +1,2 @@
-loot spawn ~ ~ ~ loot nihility:blocks/sculked_shell
+loot spawn ~ ~ ~ loot nihility:block/sculked_shell
 kill @s

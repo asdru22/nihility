@@ -121,7 +121,7 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "nihility:items/magnetite"
+            "name": "nihility:item/magnetite"
           }
         ]
       }
