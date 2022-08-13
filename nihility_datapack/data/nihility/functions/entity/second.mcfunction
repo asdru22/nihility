@@ -1,0 +1,1 @@
+execute if entity @s[type=marker,tag=nihility.anim_marker,tag=nihility.setup,scores={nihility.data=1..}] run function nihility:block/voidlinker/place/anim/second 
