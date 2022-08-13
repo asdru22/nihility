@@ -4,5 +4,18 @@
     "item.nihility.magnetite": "Magntite",
 
     "block.nihility.sculked_shell": "Sculked Shell",
-    "block.nihility.voidlinker": "Voidlinker"
+    "block.nihility.voidlinker": "Voidlinker",
+    "block.nihility.battery": "Battery",
+
+    "advancements.nihility.progression.root.title":"Definetly Not The End",
+    "advancements.nihility.progression.root.description":"Find Magnetite in an End formation",
+    "advancements.nihility.progression.linking.title":"Magnetic Love",
+    "advancements.nihility.progression.linking.description":"Connect a %s to a charged %s",
+    "advancements.nihility.progression.sculked_shell.title":"Not a Shulker Box",
+    "advancements.nihility.progression.sculked_shell.description":"Kill a Shulker near a Sculk Catalyst",
+    "advancements.nihility.progression.link_rift.title":"A Rift in the Lute",
+    "advancements.nihility.progression.link_rift.description":"Connect a %s to a Natural Rift",
+
+    "subtitle.nihility.block.battery.charge": "Battery Charges",
+    "subtitle.nihility.block.battery.break": "Battery Breaks"
 }
