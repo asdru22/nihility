@@ -21,7 +21,6 @@
             },
             {
               "function": "minecraft:set_lore",
-              "entity": "this",
               "lore": [
                 {
                   "translate": "pack.nihility",

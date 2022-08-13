@@ -5,19 +5,19 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:structure_block",
+          "name": "minecraft:furnace",
           "functions": [
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "item.nihility.magnetite",
-                "color": "white",
+                "translate": "block.nihility.voidlinker",
+                "color": "aqua",
                 "italic": false
               }
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:6906001,smithed:{id:\"nihility:magnetite\"}}"
+              "tag": "{CustomModelData:6906000,smithed:{id:\"nihility:voidlinker\"},BlockEntityTag:{Items:[{id:\"minecraft:stone\",Count:1b,Slot:0b,tag:{smithed:{block:{id:\"nihility:voidlinker\"}}}}]}}"
             },
             {
               "function": "minecraft:set_lore",
