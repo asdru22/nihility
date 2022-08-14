@@ -60,6 +60,42 @@
           "custom_model_data": 6906009
       },
       "model": "nihility:item/ash"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906010
+      },
+      "model": "nihility:item/rescinded_bar"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906011
+      },
+      "model": "nihility:item/magnetite_bar"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906100
+      },
+      "model": "nihility:entity/rupture_missionary/head/normal"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906101
+      },
+      "model": "nihility:entity/rupture_missionary/head/hurt"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906102
+      },
+      "model": "nihility:entity/rupture_missionary/body/normal"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906103
+      },
+      "model": "nihility:entity/rupture_missionary/body/hurt"
     }
   ]
 }

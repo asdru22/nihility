@@ -3,6 +3,7 @@
         "armor_stand",
         "marker",
         "glow_item_frame",
-        "item"
+        "item",
+        "villager"
     ]
 }
