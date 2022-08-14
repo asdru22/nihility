@@ -3,7 +3,6 @@
     "entity": "this",
     "predicate": {
       "type": "minecraft:item",
-      "nbt": "{Item:{tag:{display:{Name:'{\"translate\":\"block.nihility.voidlinker\"}'}}}}"
+      "nbt": "{PickupDelay:10s,Item:{id:\"minecraft:carrot\"}}"
     }
   }  
-

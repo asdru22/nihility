@@ -1,1 +1,2 @@
 execute if entity @s[type=marker,tag=nihility.anim_marker,tag=nihility.setup,scores={nihility.data=1..}] run function nihility:block/voidlinker/place/anim/second 
+execute if entity @s[type=glow_item_frame,tag=nihility.crop,tag=!nihility.crop.grown] run function nihility:block/crops/second

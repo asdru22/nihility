@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "nihility:item/voidnilla_seeds"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "nihility:item/rescinded_ore"
+          }
+        ]
+      }
+    ]
+  }
+  

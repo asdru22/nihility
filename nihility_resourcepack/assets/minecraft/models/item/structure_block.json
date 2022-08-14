@@ -18,6 +18,42 @@
             "custom_model_data": 6906002
         },
         "model": "nihility:block/sculked_shell"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906003
+      },
+      "model": "nihility:item/rescinded_ore"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906004
+      },
+      "model": "nihility:block/voidnilla_stage0"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906005
+      },
+      "model": "nihility:block/voidnilla_stage1"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906006
+      },
+      "model": "nihility:block/voidnilla_stage2"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906007
+      },
+      "model": "nihility:block/voidnilla_stage3"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906008
+      },
+      "model": "nihility:item/voidnilla_leaf"
     }
   ]
 }
