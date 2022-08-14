@@ -18,6 +18,18 @@
               "custom_model_data": 6906001
           },
           "model": "nihility:block/battery"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906002
+          },
+          "model": "nihility:block/magnetic_forge"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906003
+          },
+          "model": "nihility:block/magnetic_forge_lit"
       }
   ]
 }

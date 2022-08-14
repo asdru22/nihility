@@ -5,7 +5,8 @@ execute store result score temp2 nihility.data run data get entity @s Pos[1] 10
 scoreboard players add temp2 nihility.data 1040
 
 execute store result entity @s BeamTarget.Y int 0.1 run scoreboard players get temp2 nihility.data
-
+scoreboard players operation temp4 nihility.data = @s nihility.id
+execute as @e[type=creeper,scores={nihility.id=1..}] if score @s nihility.id = temp4 nihility.data at @s run function nihility:block/battery/unlink
 scoreboard players operation temp3 nihility.data = @s nihility.id2
 
 summon marker ~ ~ ~ {Tags:["nihility.anim_marker","nihility.entity"]}

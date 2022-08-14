@@ -1,4 +1,4 @@
-  {
+{
     "condition": "minecraft:alternative",
     "terms": [
       {
@@ -6,7 +6,7 @@
         "entity": "this",
         "predicate": {
           "type": "minecraft:item",
-          "nbt": "{Item:{tag:{display:{Name:'{\"italic\":false,\"color\":\"aqua\",\"translate\":\"block.nihility.voidlinker\"}'}}}}"
+          "nbt": "{Item:{tag:{display:{Name:'{\"italic\":false,\"color\":\"white\",\"translate\":\"block.nihility.magnetic_forge\"}'}}}}"
         }
       },
       {
@@ -14,7 +14,7 @@
         "entity": "this",
         "predicate": {
           "type": "minecraft:item",
-          "nbt": "{Item:{tag:{display:{Name:'{\"translate\":\"block.nihility.voidlinker\"}'}}}}"
+          "nbt": "{Item:{tag:{display:{Name:'{\"translate\":\"block.nihility.magnetic_forge\"}'}}}}"
         }
       }  
     ]

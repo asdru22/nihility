@@ -6,10 +6,14 @@
     "item.nihility.voidnilla_leaf": "Voidnilla Leaf",
     "item.nihility.rescinded_ore": "Rescinded Ore",
     "item.nihility.offering_basket": "Offering Basket",
+    "item.nihility.rescinded_bar": "Rescinded Bar",
+    "item.nihility.magnetite_bar": "Magnetite Bar",
+    "item.nihility.ash": "Ash",
 
     "block.nihility.sculked_shell": "Sculked Shell",
     "block.nihility.voidlinker": "Voidlinker",
     "block.nihility.battery": "Battery",
+    "block.nihility.magnetic_forge": "Magnetic Forge",
 
     "advancements.nihility.progression.root.title":"Definetly Not The End",
     "advancements.nihility.progression.root.description":"Find Magnetite in an End formation",

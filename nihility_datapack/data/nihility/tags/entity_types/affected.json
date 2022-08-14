@@ -2,6 +2,7 @@
     "values": [
         "armor_stand",
         "marker",
-        "glow_item_frame"
+        "glow_item_frame",
+        "item"
     ]
 }
