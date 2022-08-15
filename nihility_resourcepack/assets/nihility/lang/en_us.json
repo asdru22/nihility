@@ -9,13 +9,17 @@
     "item.nihility.rescinded_bar": "Rescinded Bar",
     "item.nihility.magnetite_bar": "Magnetite Bar",
     "item.nihility.ash": "Ash",
+    "item.nihility.rupture_entry_1": "Survivor's Rupture Log",
+
+    "item.entry1.p1": "So cold. So devoid of everything. It's so evergrowingly consuming. I fear soon it will break out everywhere, leaving nothing behind. I have witnessed these effects here already, I fear the End will come soon.",
+    "item.entry1.p2": "But not all hope is lost. In my time here I learnt how the items of the shadow regions interact with each other. What they are capable of. Alas, I still fear this is just the beginning.",
 
     "block.nihility.sculked_shell": "Sculked Shell",
     "block.nihility.voidlinker": "Voidlinker",
     "block.nihility.battery": "Battery",
     "block.nihility.magnetic_forge": "Magnetic Forge",
 
-    "entity.nihility.rupture_missionary": "Rupture Missionary",
+    "entity.nihility.rupture_missionary": "Rupture Survivor",
 
     "advancements.nihility.progression.root.title":"Definetly Not The End",
     "advancements.nihility.progression.root.description":"Find Magnetite in an End formation",
@@ -25,6 +29,9 @@
     "advancements.nihility.progression.sculked_shell.description":"Kill a Shulker near a Sculk Catalyst",
     "advancements.nihility.progression.link_rift.title":"A Rift in the Lute",
     "advancements.nihility.progression.link_rift.description":"Connect a %s to a Natural Rift",
+
+    "advancements.nihility.nihility.journal1.title":"Nihility",
+    "advancements.nihility.nihility.journal1.description":"Obtain a Rupture Log from a survivor of the Void ",
 
     "subtitle.nihility.block.battery.charge": "Battery Charges",
     "subtitle.nihility.block.battery.break": "Battery Breaks"

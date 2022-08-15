@@ -3,7 +3,7 @@ data modify entity @s Offers.Recipes set value [{maxUses:2147483647,uses:0,price
 loot replace entity @s weapon.mainhand 1 loot nihility:item/rescinded_bar
 data modify entity @s HandItems[0].Count set value 2b
 data modify entity @s Offers.Recipes[0].buyB set from entity @s HandItems[0]
-loot replace entity @s weapon.mainhand loot nihility:item/rupture_journal
+loot replace entity @s weapon.mainhand loot nihility:item/rupture_entry_1
 data modify entity @s Offers.Recipes[0].sell set from entity @s HandItems[0]
 
 

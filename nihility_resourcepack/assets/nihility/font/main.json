@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "nihility:gui/book_background.png",
+            "ascent": 36,
+            "height": 256,
+            "chars": [
+              "\ud000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nihility:gui/negative_space.png",
+            "ascent": -32768,
+            "height": -35,
+            "chars": [
+              "\ud001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nihility:gui/negative_space.png",
+            "ascent": -32768,
+            "height": -1,
+            "chars": [
+              "\ud002"
+            ]
+        }
+    ]
+}

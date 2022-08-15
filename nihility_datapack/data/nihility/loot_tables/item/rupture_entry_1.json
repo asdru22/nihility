@@ -1,0 +1,37 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:written_book",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "translate": "item.nihility.rupture_entry_1",
+                  "color": "white",
+                  "italic": false
+                }
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{HideFlags:127,CustomModelData:6906000,smithed:{id:\"nihility:rupture_entry_1\"},title:\"Entry 1\",author:\"???\",pages:['{\"translate\":\"item.entry1.p1\"}','{\"translate\":\"item.entry1.p2\"}']}"
+              },
+              {
+                "function": "minecraft:set_lore",
+                "lore": [
+                  {
+                    "translate": "pack.nihility",
+                    "color": "#007069",
+                    "italic": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
