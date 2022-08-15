@@ -1,0 +1,1 @@
+give @p written_book{title:"",author:"",pages:[]} 1

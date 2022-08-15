@@ -75,6 +75,12 @@
     },
     {
       "predicate": {
+          "custom_model_data": 6906012
+      },
+      "model": "nihility:item/voidnilla_twig"
+    },
+    {
+      "predicate": {
           "custom_model_data": 6906100
       },
       "model": "nihility:entity/rupture_missionary/head/normal"
