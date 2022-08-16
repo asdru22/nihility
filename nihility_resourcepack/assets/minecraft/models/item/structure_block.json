@@ -114,6 +114,18 @@
           "custom_model_data": 6906105
       },
       "model": "nihility:entity/void_zombie/arm"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906106
+      },
+      "model": "nihility:entity/airship/sail"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906107
+      },
+      "model": "nihility:entity/airship/boosters"
     }
   ]
 }

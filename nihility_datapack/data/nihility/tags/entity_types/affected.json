@@ -4,6 +4,7 @@
         "marker",
         "glow_item_frame",
         "item",
-        "villager"
+        "villager",
+        "chest_boat"
     ]
 }
