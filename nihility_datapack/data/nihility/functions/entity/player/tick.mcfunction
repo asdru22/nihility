@@ -1,0 +1,1 @@
+execute if entity @s[predicate=nihility:entity/player/hold_affected] run function nihility:item/tick

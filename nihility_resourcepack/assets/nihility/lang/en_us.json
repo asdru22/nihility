@@ -15,7 +15,7 @@
 
     "item.entry1.p1": "%sSo cold. So devoid of everything. It's so evergrowingly consuming. I fear soon it will break out everywhere, leaving nothing behind. I have witnessed these effects here already, I fear The End is next.",
     "item.entry1.p2": "%sBut not everything is lost. In my time here I learnt how the items of the shadow regions interact with each other. What they are capable of. Alas, I still fear this is just the beginning. I hope the others are fine.",
-    "item.entry1.p3": "%sThis item is great for fighting the weakest creatures of darkness, even though \"weak\" is greatly diminutive. It requires Glowstone Dust in your offhand to fire a beam of light.",
+    "item.entry1.p3": "%sThe Glimmering Stick is great for fighting the weakest creatures of darkness, even though \"weak\" is greatly diminutive. It requires Glowstone Dust in your offhand to fire a beam of light.",
 
     "block.nihility.sculked_shell": "Sculked Shell",
     "block.nihility.voidlinker": "Voidlinker",
@@ -24,10 +24,11 @@
 
     "entity.nihility.rupture_missionary": "Rupture Survivor",
 
+    "attribute.nihility.light_damage" :" %s Light Damage",
+
     "book.nihility.recipe_page": "\ud001\ud000\n\ud002%s\n\ud004%s\ud006%s\ud006%s\n\n\n\n\ud004%s\ud006%s\ud006%s\n\n\n\n\ud004%s\ud006%s\ud006%s",
     "book.nihility.shaped_recipe": "\nShaped Recipe at %s",
     "book.nihility.item.empty": "\ud008",
-
 
     "book.nihility.icon.empty": "\ud008",
     "book.nihility.item.voidnilla_twig": "\ud009",

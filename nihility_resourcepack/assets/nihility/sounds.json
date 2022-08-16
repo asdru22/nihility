@@ -16,5 +16,11 @@
             "nihility:block/link"
         ],
         "subtitle" : "subtitle.nihility.block.link"
+    },
+    "item.glimmering_stick.use": {
+        "sounds":   [
+            "nihility:item/glimmering_stick/use"
+        ],
+        "subtitle" : "subtitle.nihility.item.glimmering_stick.use"
     }
 }

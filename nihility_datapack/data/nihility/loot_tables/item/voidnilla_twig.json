@@ -17,7 +17,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6906013,smithed:{id:\"nihility:voidnilla_twig\"}}"
+                "tag": "{CustomModelData:6906013,smithed:{id:\"nihility:voidnilla_twig\"},nihility:{ValidOffering:1b}}"
               },
               {
                 "function": "minecraft:set_lore",

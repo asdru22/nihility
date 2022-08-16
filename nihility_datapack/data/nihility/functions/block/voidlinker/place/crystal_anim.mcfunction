@@ -10,4 +10,4 @@ execute as @e[type=creeper,scores={nihility.id=1..}] if score @s nihility.id = t
 scoreboard players operation temp3 nihility.data = @s nihility.id2
 
 summon marker ~ ~ ~ {Tags:["nihility.anim_marker","nihility.entity"]}
-execute as @e[type=marker,tag=nihility.anim_marker,tag=!nihility.setup] at @s run function nihility:block/voidlinker/place/anim/setup
+execute as @e[type=marker,tag=nihility.anim_marker,tag=!nihility.setup] at @s run function nihility:block/voidlinker/anim/setup

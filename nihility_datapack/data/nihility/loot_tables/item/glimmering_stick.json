@@ -17,11 +17,28 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:6906000,smithed:{id:\"nihility:glimmering_stick\"}}"
+              "tag": "{CustomModelData:6906000,smithed:{id:\"nihility:glimmering_stick\"},nihility:{affected:1b}}"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
+                "",
+                {
+                  "translate": "item.modifiers.mainhand",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "translate": "attribute.nihility.light_damage",
+                  "color": "dark_green",
+                  "italic": false,
+                  "with": [
+                    {
+                      "text": "20.0"
+                    }
+                  ]
+                },
+                "",
                 {
                   "translate": "pack.nihility",
                   "color": "#007069",

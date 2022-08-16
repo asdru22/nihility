@@ -102,6 +102,18 @@
           "custom_model_data": 6906103
       },
       "model": "nihility:entity/rupture_missionary/body/hurt"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906104
+      },
+      "model": "nihility:entity/void_zombie/head"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906105
+      },
+      "model": "nihility:entity/void_zombie/arm"
     }
   ]
 }

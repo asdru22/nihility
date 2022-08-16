@@ -1,0 +1,1 @@
+execute if entity @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:glowstone_dust"}]}] anchored eyes positioned ^ ^ ^ run function nihility:item/glimmering_stick/init

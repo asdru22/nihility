@@ -1,0 +1,13 @@
+{
+    "providers":[
+        {
+        "type": "bitmap",
+        "file": "nihility:gui/void_hearts.png",
+        "ascent": 11,
+        "height": 16,
+        "chars": [
+            "fhe"
+            ]
+        }
+    ]
+}

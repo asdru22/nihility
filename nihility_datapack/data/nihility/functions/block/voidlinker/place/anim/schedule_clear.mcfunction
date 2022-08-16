@@ -1,1 +1,0 @@
-execute as @e[type=marker,tag=nihility.marker.schedule] at @s run function nihility:block/voidlinker/place/anim/clear_gateway
