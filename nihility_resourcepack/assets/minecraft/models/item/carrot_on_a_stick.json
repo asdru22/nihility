@@ -9,6 +9,12 @@
         "custom_model_data": 6906000
       },
       "model": "nihility:item/glimmering_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906001
+      },
+      "model": "nihility:item/airship"
     }
   ]
 }
