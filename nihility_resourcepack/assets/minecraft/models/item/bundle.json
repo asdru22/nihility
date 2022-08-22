@@ -16,6 +16,18 @@
               "custom_model_data": 6906000,"filled":0.0000001
           },
           "model": "nihility:item/offering_basket_filled"
-      }
+      },
+      {
+      "predicate": {
+          "custom_model_data": 6906001
+      },
+      "model": "nihility:item/phoenix_envelope_open"
+  },
+  {
+      "predicate": {
+          "custom_model_data": 6906001,"filled":0.0000001
+      },
+      "model": "nihility:item/phoenix_envelope_closed"
+  }
   ]
 }

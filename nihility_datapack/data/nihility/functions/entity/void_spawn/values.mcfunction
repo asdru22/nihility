@@ -1,4 +1,4 @@
-execute if score hp nihility.data matches 0 run data modify storage nihility:storage root.temp.display set value '"eeeee"'
+execute if score hp nihility.data matches ..0 run data modify storage nihility:storage root.temp.display set value '"eeeee"'
 execute if score hp nihility.data matches 1..9 run data modify storage nihility:storage root.temp.display set value '"heeee"'
 execute if score hp nihility.data matches 10..20 run data modify storage nihility:storage root.temp.display set value '"feeee"'
 execute if score hp nihility.data matches 21..30 run data modify storage nihility:storage root.temp.display set value '"fheee"'

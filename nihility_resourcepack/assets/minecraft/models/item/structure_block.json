@@ -81,6 +81,24 @@
     },
     {
       "predicate": {
+          "custom_model_data": 6906013
+      },
+      "model": "nihility:item/kindling_crystal"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906014
+      },
+      "model": "nihility:item/rekindled_crystal"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906015
+      },
+      "model": "nihility:item/rescinded_sigil"
+    },
+    {
+      "predicate": {
           "custom_model_data": 6906100
       },
       "model": "nihility:entity/rupture_missionary/head/normal"
@@ -120,12 +138,6 @@
           "custom_model_data": 6906106
       },
       "model": "nihility:entity/airship/sail"
-    },
-    {
-      "predicate": {
-          "custom_model_data": 6906107
-      },
-      "model": "nihility:entity/airship/boosters"
     }
   ]
 }

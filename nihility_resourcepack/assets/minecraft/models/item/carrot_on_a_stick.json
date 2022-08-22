@@ -15,6 +15,12 @@
         "custom_model_data": 6906001
       },
       "model": "nihility:item/airship"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906002
+      },
+      "model": "nihility:item/rescinded_blade"
     }
   ]
 }
