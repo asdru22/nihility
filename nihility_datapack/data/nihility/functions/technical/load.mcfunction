@@ -5,6 +5,9 @@ scoreboard objectives add nihility.id dummy
 scoreboard objectives add nihility.id2 dummy
 scoreboard objectives add nihility.use_coas minecraft.used:minecraft.carrot_on_a_stick
 
+scoreboard objectives add nihility.trigger trigger
+scoreboard objectives add nihility.books trigger
+
 scoreboard objectives add nihility.x dummy
 scoreboard objectives add nihility.z dummy
 scoreboard objectives add nihility.vars dummy
