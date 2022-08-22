@@ -1,0 +1,3 @@
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 3 if data storage smithed.crafter:input {recipe:[{Count:1b,tag:{smithed:{id:"nihility:rekindled_crystal"}}},{Count:2b,id:"minecraft:paper"},{Count:1b,id:"minecraft:feather"}]} run loot replace block ~ ~ ~ container.16 loot nihility:item/phoenix_envelope
+
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 3 if data storage smithed.crafter:input {recipe:[{Count:2b,tag:{smithed:{id:"nihility:rescinded_bar"}}},{Count:1b,id:"minecraft:ink_sac"},{Count:1b,id:"minecraft:candle"}]} run loot replace block ~ ~ ~ container.16 loot nihility:item/rescinded_sigil

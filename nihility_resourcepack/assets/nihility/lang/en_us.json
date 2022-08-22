@@ -60,6 +60,7 @@
     "book.nihility.unlock":"You unlocked the %s, a magical tome containing all of the books you collected so far! type %s in chat and run it to get a copy of it. Click %s to try it out.",
     "book.nihility.here": "here",
     "book.nihility.click_here": "Click to suggest command",
+    "book.nihility.go_to_wiki":"\nClick to open the Wiki.",
 
     "book.nihility.icon.empty": "\ud008",
     "book.nihility.item.voidnilla_twig": "\ud009\uf0093",
