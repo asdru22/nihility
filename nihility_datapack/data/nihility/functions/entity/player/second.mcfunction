@@ -1,1 +1,1 @@
-execute if predicate nihility:entity/player/leave_void run execute in overworld run tp @s ~ 300 ~
+execute if predicate nihility:entity/player/leave_void run execute in minecraft:overworld run tp @s ~ 300 ~

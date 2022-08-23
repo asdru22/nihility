@@ -8,6 +8,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
+              "nbt": "{Inventory:[{tag:{smithed:{id:\"nihility:stuff\"}}}]}",
               "location": {
                 "structure": "nihility:void_gate"
               }
@@ -19,7 +20,6 @@
     }
   },
   "rewards": {
-    "function": 
-      "nihility:entity/player/enter_void_gateway"
+    "function": "nihility:entity/player/enter_void_gateway"
   }
 }
