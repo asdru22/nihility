@@ -6,6 +6,7 @@
         "item",
         "villager",
         "chest_boat",
-        "#nihility:void_base"
+        "#nihility:void_base",
+        "end_crystal"
     ]
 }

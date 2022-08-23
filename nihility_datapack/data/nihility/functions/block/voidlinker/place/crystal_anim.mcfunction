@@ -1,6 +1,6 @@
 data modify entity @s BeamTarget.X set from entity @s Pos[0]
 data modify entity @s BeamTarget.Z set from entity @s Pos[2]
-
+tag @s add nihility.crystal_anim
 execute store result score temp2 nihility.data run data get entity @s Pos[1] 10
 scoreboard players add temp2 nihility.data 1040
 

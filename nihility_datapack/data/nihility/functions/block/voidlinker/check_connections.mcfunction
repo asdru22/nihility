@@ -1,3 +1,4 @@
+tag @s remove nihility.crystal_anim
 scoreboard players set temp2 nihility.data 0
 execute if score temp2 nihility.data matches 0 as @e[type=end_crystal,tag=nihility.voidlinker_crystal,sort=nearest,limit=1] at @s if entity @e[type=creeper,tag=nihility.battery.display,tag=!nihility.battery.linked,sort=nearest,distance=..15] run function nihility:block/voidlinker/crystal_connect
 

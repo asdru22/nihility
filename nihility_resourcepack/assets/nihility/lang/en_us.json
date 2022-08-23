@@ -50,6 +50,7 @@
 
     "attribute.nihility.light_damage" :" %s Light Damage",
     "gameplay.nihility.rupture_rolls":"Rupture Rolls",
+    "death.nihility.voidspawn":"%s's light dimmed out",
 
     "book.nihility.recipe_page": "\ud001\ud000\n\ud002%s\n\ud004%s\ud006%s\ud006%s\n\n\n\n\ud004%s\ud006%s\ud006%s\n\n\n\n\ud004%s\ud006%s\ud006%s",
     "book.nihility.icon_page": "\ud001g\n\ud002%s",
