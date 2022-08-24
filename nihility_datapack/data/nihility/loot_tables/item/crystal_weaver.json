@@ -10,14 +10,14 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "item.nihility.glimmering_stick",
+                "translate": "item.nihility.crystal_weaver",
                 "color": "white",
                 "italic": false
               }
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:6906000,smithed:{id:\"nihility:glimmering_stick\"},nihility:{affected:1b}}"
+              "tag": "{CustomModelData:6906003,smithed:{id:\"nihility:crystal_weaver\"},nihility:{affected:1b}}"
             },
             {
               "function": "minecraft:set_lore",
@@ -34,7 +34,7 @@
                   "italic": false,
                   "with": [
                     {
-                      "text": "20"
+                      "text": "15"
                     }
                   ]
                 },

@@ -21,13 +21,13 @@
           },
           {
             "type": "minecraft:loot_table",
-            "weight": 1,
+            "weight": 2,
             "quality": 5,
             "name": "nihility:item/kindling_crystal"
           },
           {
             "type": "minecraft:item",
-            "weight": 7,
+            "weight": 6,
             "quality": 1,
             "name": "minecraft:rotten_flesh",
             "functions": [

@@ -21,6 +21,12 @@
         "custom_model_data": 6906002
       },
       "model": "nihility:item/rescinded_sigil"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906003
+      },
+      "model": "nihility:item/crystal_weaver"
     }
   ]
 }
