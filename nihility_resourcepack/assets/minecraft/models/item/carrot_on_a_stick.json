@@ -27,6 +27,18 @@
         "custom_model_data": 6906003
       },
       "model": "nihility:item/crystal_weaver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906004
+      },
+      "model": "nihility:item/slime_slinger_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906005
+      },
+      "model": "nihility:item/auric_discharger"
     }
   ]
 }
