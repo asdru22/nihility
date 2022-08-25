@@ -1,0 +1,14 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 48841985,
+      "separation": 32,
+      "spacing": 60
+    },
+    "structures": [
+      {
+        "structure": "nihility:hideout",
+        "weight": 1
+      }
+    ]
+  }
