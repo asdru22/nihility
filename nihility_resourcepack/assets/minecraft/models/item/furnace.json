@@ -36,6 +36,12 @@
               "custom_model_data": 6906004
           },
           "model": "nihility:block/weaved_crystal"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906005
+          },
+          "model": "nihility:block/oblivion_well"
       }
   ]
 }

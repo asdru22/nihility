@@ -8,6 +8,33 @@
         "chars": [
             "fhe"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nihility:item/lapis_lightzuli.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "a"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/book.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "b"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nihility:gui/book_gray.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "c"
+                ]
         }
     ]
 }

@@ -123,6 +123,18 @@
     },
     {
       "predicate": {
+          "custom_model_data": 6906020
+      },
+      "model": "nihility:item/lapis_lightzuli"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906021
+      },
+      "model": "nihility:item/mystic_book"
+    },
+    {
+      "predicate": {
           "custom_model_data": 6906100
       },
       "model": "nihility:entity/rupture_missionary/head/normal"
