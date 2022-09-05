@@ -93,6 +93,36 @@
     },
     {
       "predicate": {
+          "custom_model_data": 6906015
+      },
+      "model": "nihility:item/voidnilla_jelly"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906016
+      },
+      "model": "nihility:item/voidnilla_paste"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906017
+      },
+      "model": "nihility:item/voidnilla_shard"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906018
+      },
+      "model": "nihility:item/shadow_phoenix_feather"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906019
+      },
+      "model": "nihility:item/nihilim"
+    },
+    {
+      "predicate": {
           "custom_model_data": 6906100
       },
       "model": "nihility:entity/rupture_missionary/head/normal"
