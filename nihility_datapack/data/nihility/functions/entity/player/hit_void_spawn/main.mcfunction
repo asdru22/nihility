@@ -1,5 +1,5 @@
 advancement revoke @s only nihility:technical/player/hit_void_spawn
-execute store result score damage nihility.data run data get entity @s SelectedItem.tag.nihility.light_damage 
+execute store result score damage nihility.data run data get entity @s SelectedItem.tag.nihility.stats.damage 
 scoreboard players operation damage nihility.data *= @s nihility.dmg_dealt
 scoreboard players operation damage nihility.data /= 10 nihility.data
 scoreboard players reset @s nihility.dmg_dealt

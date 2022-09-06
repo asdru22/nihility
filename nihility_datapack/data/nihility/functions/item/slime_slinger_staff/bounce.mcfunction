@@ -1,4 +1,4 @@
-scoreboard players operation damage nihility.data *= 2 nihility.data
+scoreboard players operation l_dmg nihility.data *= 2 nihility.data
 tag @s add nihility.bounce
 scoreboard players add bounces nihility.data 1
 scoreboard players set found_slime nihility.data 0

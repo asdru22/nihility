@@ -10,7 +10,7 @@
               "predicate": {
                 "equipment": {
                   "mainhand": {
-                    "nbt": "{nihility:{void_melee:1b}}"
+                    "nbt": "{nihility:{light_damage:true,type:\"melee\"}}"
                   }
                 }
               }

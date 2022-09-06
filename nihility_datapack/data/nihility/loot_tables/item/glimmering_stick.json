@@ -17,7 +17,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:6906000,smithed:{id:\"nihility:glimmering_stick\"},nihility:{affected:1b}}"
+              "tag": "{CustomModelData:6906000,smithed:{id:\"nihility:glimmering_stick\"},nihility:{affected:1b,type:\"magic\",stats:{damage:20}}}"
             },
             {
               "function": "minecraft:set_lore",
