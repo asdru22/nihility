@@ -1,1 +1,2 @@
 execute if entity @s[tag=nihility.voidspawn_death] run tellraw @a [{"translate":"death.nihility.voidspawn","with":[{"selector":"@s"}]}]
+execute if entity @s[tag=nihility.decanter.damage] run tellraw @a [{"translate":"death.nihility.decanter","with":[{"selector":"@s"}]}]

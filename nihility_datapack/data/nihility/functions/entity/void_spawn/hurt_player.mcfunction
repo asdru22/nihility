@@ -1,4 +1,3 @@
-
 execute if entity @s[advancements={nihility:technical/player/voidspawn_hurt_player={void_zombie=true}}] run scoreboard players set @s smithed.damage 6
 
 

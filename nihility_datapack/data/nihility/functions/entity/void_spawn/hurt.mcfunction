@@ -1,3 +1,5 @@
+execute if entity @s[tag=nihility.entity.trader_AI] run data modify entity @s HandItems[0].tag.nihility.health set from entity @s ArmorItems[3].tag.nihility.health
+
 effect give @s minecraft:instant_damage 1 30 true
 effect give @s minecraft:instant_health 1 30 true
 execute store result score hp nihility.data run data get entity @s HandItems[0].tag.nihility.health.val

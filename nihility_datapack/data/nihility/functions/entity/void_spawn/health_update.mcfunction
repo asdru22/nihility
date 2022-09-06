@@ -6,5 +6,8 @@ function nihility:entity/void_spawn/values
 
 item modify entity @s weapon.mainhand nihility:void_mob_hp
 
-data modify entity @s CustomName set from entity @s HandItems[0].tag.display.Name
+execute if entity @s[tag=nihility.entity.trader_AI] run data modify entity @s ArmorItems[3].tag.nihility.health set from entity @s HandItems[0].tag.nihility.health
+
+
+#data modify entity @s CustomName set from entity @s HandItems[0].tag.display.Name
 execute if score hp nihility.data matches ..0 run function nihility:entity/void_spawn/death

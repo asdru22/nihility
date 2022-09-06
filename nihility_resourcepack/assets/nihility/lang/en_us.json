@@ -60,6 +60,7 @@
     "attribute.nihility.light_damage" :" %s Light Damage",
     "gameplay.nihility.rupture_rolls":"Rupture Rolls",
     "death.nihility.voidspawn":"%s's light dimmed out",
+    "death.nihility.decanter":"%s was headbutted by Scuttler",
 
     "enchantment.nihility.enchantment_cost":"Requires: %s%s, %s %s",
     "enchantment.nihility.icon":"%sa%s ",
