@@ -42,6 +42,36 @@
               "custom_model_data": 6906005
           },
           "model": "nihility:block/oblivion_well"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906006
+          },
+          "model": "nihility:block/oblivion_well_0"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906007
+          },
+          "model": "nihility:block/oblivion_well_1"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906008
+          },
+          "model": "nihility:block/oblivion_well_2"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906009
+          },
+          "model": "nihility:block/oblivion_well_3"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906010
+          },
+          "model": "nihility:block/oblivion_well_4"
       }
   ]
 }
