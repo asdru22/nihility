@@ -22,5 +22,65 @@
             "nihility:item/glimmering_stick/use"
         ],
         "subtitle" : "subtitle.nihility.item.glimmering_stick.use"
-    }
+    },
+    "entity.sculker.idle": {
+        "sounds": [
+          {
+          "name": "nihility:entity/sculker/idle0",
+          "stream": true
+        },
+        {
+          "name": "nihility:entity/sculker/idle1",
+          "stream": true
+        },
+        {
+          "name": "nihility:entity/sculker/idle2",
+          "stream": true
+        },
+        {
+          "name": "nihility:entity/sculker/idle3",
+          "stream": true
+        }
+      ],
+        "subtitle": "subtitles.nihility.entity.sculker.idle",
+        "category": "master"
+      },
+      "entity.sculker.hurt": {
+        "sounds": [
+          {
+          "name": "nihility:entity/sculker/hurt0",
+          "stream": true
+        },
+        {
+          "name": "nihility:entity/sculker/hurt1",
+          "stream": true
+        }
+      ],
+        "subtitle": "subtitles.nihility.entity.sculker.hurt",
+        "category": "master"
+      },
+      "entity.sculker.death": {
+        "sounds": [
+          {
+          "name": "nihility:entity/sculker/death",
+          "stream": true
+        }
+      ],
+        "subtitle": "subtitles.nihility.entity.sculker.deathhurt",
+        "category": "master"
+      },
+      "entity.sculker.shoot": {
+        "sounds": [
+          {
+          "name": "nihility:entity/sculker/shoot0",
+          "stream": true
+        },
+        {
+          "name": "nihility:entity/sculker/shoot1",
+          "stream": true
+        }
+      ],
+        "subtitle": "subtitles.nihility.entity.sculker.shoot",
+        "category": "master"
+      }
 }
