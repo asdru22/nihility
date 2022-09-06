@@ -61,6 +61,7 @@
     "gameplay.nihility.rupture_rolls":"Rupture Rolls",
     "death.nihility.voidspawn":"%s's light dimmed out",
     "death.nihility.decanter":"%s was headbutted by Scuttler",
+    "death.nihility.sculker":"%s was obliterated by a Sculker beam",
 
     "enchantment.nihility.enchantment_cost":"Requires: %s%s, %s %s",
     "enchantment.nihility.icon":"%sa%s ",

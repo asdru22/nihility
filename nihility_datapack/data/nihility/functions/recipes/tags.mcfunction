@@ -11,3 +11,6 @@ execute if predicate nihility:recipes/enchanting/is_boots run data modify storag
 execute if predicate nihility:recipes/enchanting/is_bow run data modify storage smithed.crafter:main root.temp.item_tag append value "#nihility:bows"
 execute if predicate nihility:recipes/enchanting/is_crossbow run data modify storage smithed.crafter:main root.temp.item_tag append value "#nihility:crossbows"
 execute if predicate nihility:recipes/enchanting/is_enchantable run data modify storage smithed.crafter:main root.temp.item_tag append value "#nihility:enchantable"
+execute if predicate nihility:recipes/enchanting/is_melee run data modify storage smithed.crafter:main root.temp.item_tag append value "#nihility:melee"
+execute if predicate nihility:recipes/enchanting/is_magic run data modify storage smithed.crafter:main root.temp.item_tag append value "#nihility:magic"
+execute if predicate nihility:recipes/enchanting/is_ranged run data modify storage smithed.crafter:main root.temp.item_tag append value "#nihility:ranged"

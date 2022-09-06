@@ -17,7 +17,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:6906004,smithed:{id:\"nihility:slime_slinger_staff\"},nihility:{affected:1b,type:\"magic\",stats:{damage:5}}}"
+              "tag": "{CustomModelData:6906004,smithed:{id:\"nihility:slime_slinger_staff\"},nihility:{enchantable:true,affected:1b,type:\"magic\",stats:{damage:5}}}"
             },
             {
               "function": "minecraft:set_lore",

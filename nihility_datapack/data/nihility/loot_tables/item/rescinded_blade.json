@@ -36,7 +36,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:2,CustomModelData:6906000,smithed:{id:\"nihility:rescinded_blade\"},nihility:{light_damage:true,type:\"melee\",stats:{damage:13}}}"
+              "tag": "{HideFlags:2,CustomModelData:6906000,smithed:{id:\"nihility:rescinded_blade\"},nihility:{enchantable:true,light_damage:true,type:\"melee\",stats:{damage:13}}}"
             },
             {
               "function": "minecraft:set_lore",

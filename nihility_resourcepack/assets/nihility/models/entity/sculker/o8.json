@@ -222,24 +222,18 @@
 			"name": "flap1",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5]
 		},
 		{
 			"name": "flap2",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [6, 7, 8, 9, 10, 11]
 		},
 		{
 			"name": "base",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [12, 13, 14]
 		},
 		15
