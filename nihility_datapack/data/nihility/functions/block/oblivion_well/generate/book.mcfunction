@@ -6,4 +6,20 @@ execute store result entity @s ArmorItems[3].tag.nihility.book int 1 run scorebo
 
 function nihility:block/oblivion_well/generate/randomize_list/init
 
-loot replace entity @a[advancements={nihility:technical/block/interact/oblivion_well=true}] weapon.mainhand loot nihility:item/mystic_book
+loot spawn ~ ~1.5 ~ loot nihility:item/mystic_book
+
+execute store result score lapis nihility.data run data get entity @s ArmorItems[3].tag.nihility.lapis
+execute store result score book nihility.data run data get entity @s ArmorItems[3].tag.nihility.book
+
+data merge entity @s {CustomNameVisible:true}
+item modify entity @s armor.head nihility:oblivion_well_display
+data modify entity @s CustomName set from entity @s ArmorItems[3].tag.display.Name
+
+scoreboard players set score nihility.data 10
+scoreboard players operation score nihility.data *= req_lapis nihility.data
+scoreboard players operation score nihility.data *= level nihility.data
+
+
+scoreboard players operation global nihility.void_score += score nihility.data
+execute as @a[distance=..15] run scoreboard players operation @s nihility.void_score += score nihility.data
+function nihility:block/voidlinker/void_score/main
