@@ -135,6 +135,30 @@
     },
     {
       "predicate": {
+          "custom_model_data": 6906022
+      },
+      "model": "nihility:item/voidmancing_shard"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906023
+      },
+      "model": "nihility:item/voidmancing_glass"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906024
+      },
+      "model": "nihility:item/lustremancing_orb"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 6906025
+      },
+      "model": "nihility:item/daylight_oil_in_a_bottle"
+    },
+    {
+      "predicate": {
           "custom_model_data": 6906100
       },
       "model": "nihility:entity/rupture_missionary/head/normal"
@@ -176,4 +200,4 @@
       "model": "nihility:entity/airship/sail"
     }
   ]
-}
+} 

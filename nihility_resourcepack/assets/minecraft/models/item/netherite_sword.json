@@ -9,6 +9,12 @@
         "custom_model_data": 6906000
       },
       "model": "nihility:item/rescinded_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906001
+      },
+      "model": "nihility:item/voidnilla_greatsword"
     }
   ]
 }
