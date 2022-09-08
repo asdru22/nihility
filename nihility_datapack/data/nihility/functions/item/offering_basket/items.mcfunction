@@ -8,3 +8,4 @@ execute if data storage nihility:storage root.temp.item2{id:"minecraft:echo_shar
 execute if data storage nihility:storage root.temp.item2{id:"minecraft:amethyst_shard"} run scoreboard players set value nihility.data 10
 execute if data storage nihility:storage root.temp.item2{id:"minecraft:nether_star"} run scoreboard players set value nihility.data 1
 execute if data storage nihility:storage root.temp.item2{tag:{smithed:{id:"nihility:voidnilla_twig"}}} run scoreboard players set value nihility.data 25
+

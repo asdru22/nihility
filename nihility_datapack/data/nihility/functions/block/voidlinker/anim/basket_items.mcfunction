@@ -4,6 +4,4 @@ execute if score link nihility.data matches 1 run function nihility:block/voidli
 loot spawn ~ ~ ~ loot nihility:item/offering_basket
 
 
-scoreboard players operation global nihility.void_score += score nihility.data
-execute as @a[distance=..15] run scoreboard players operation @s nihility.void_score += score nihility.data
 function nihility:block/voidlinker/void_score/main
