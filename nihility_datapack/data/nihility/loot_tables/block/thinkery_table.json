@@ -10,14 +10,14 @@
               {
                 "function": "minecraft:set_name",
                 "name": {
-                  "translate": "block.nihility.oblivion_well",
+                  "translate": "block.nihility.thinkery_table",
                   "color": "white",
                   "italic": false
                 }
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:6906011,smithed:{id:\"nihility:oblivion_well\"},BlockEntityTag:{Items:[{id:\"minecraft:stone\",Count:1b,Slot:0b,tag:{smithed:{block:{id:\"nihility:oblivion_well\"}}}}]}}"
+                "tag": "{CustomModelData:6906012,smithed:{id:\"nihility:thinkery_table\"},BlockEntityTag:{Items:[{id:\"minecraft:stone\",Count:1b,Slot:0b,tag:{smithed:{block:{id:\"nihility:thinkery_table\"}}}}]}}"
               },
               {
                 "function": "minecraft:set_lore",

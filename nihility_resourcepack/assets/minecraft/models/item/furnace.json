@@ -72,6 +72,18 @@
               "custom_model_data": 6906010
           },
           "model": "nihility:block/oblivion_well_4"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906011
+          },
+          "model": "nihility:block/oblivion_well_item"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906012
+          },
+          "model": "nihility:block/thinkery_table"
       }
   ]
 }

@@ -1,4 +1,3 @@
-say main
 data remove storage smithed.crafter:input recipe[{item_tag:["#minecraft:piglin_loved"]}].item_tag[0]
 
 data modify storage nihility:storage root.temp.ench.book set from storage smithed.crafter:input recipe[{tag:{smithed:{id:"nihility:mystic_book"}}}]

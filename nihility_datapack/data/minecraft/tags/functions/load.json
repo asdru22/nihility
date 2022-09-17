@@ -1,5 +1,6 @@
 {
     "values": [
-        "nihility:technical/load"
+        "nihility:technical/load",
+        "delta:internal/load"
     ]
 }

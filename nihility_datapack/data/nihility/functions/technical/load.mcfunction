@@ -8,20 +8,27 @@ scoreboard objectives add nihility.void_score dummy
 scoreboard objectives add nihility.x dummy
 scoreboard objectives add nihility.z dummy
 scoreboard objectives add nihility.vars dummy
+scoreboard objectives add nihility.dash_timer dummy
 
 scoreboard objectives add nihility.use_coas minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add nihility.dmg_dealt minecraft.custom:minecraft.damage_dealt_resisted
 scoreboard objectives add nihility.trigger trigger
 
-
 schedule function nihility:technical/10_seconds 1t replace
 schedule function nihility:technical/second 1t replace
 schedule function nihility:technical/5_ticks 1t replace
 
-scoreboard players set 100 nihility.data 100
-scoreboard players set 10 nihility.data 10
-scoreboard players set 2 nihility.data 2
+scoreboard players set -46496 nihility.data -46496
 scoreboard players set -1 nihility.data -1
+scoreboard players set 2 nihility.data 2
+scoreboard players set 10 nihility.data 10
+scoreboard players set 100 nihility.data 100
+scoreboard players set 360 nihility.data 360
+scoreboard players set 1000 nihility.data 1000
+scoreboard players set 10000 nihility.data 10000
+scoreboard players set 57295 nihility.data 57295
+scoreboard players set 100000 nihility.data 100000
+scoreboard players set 1000000 nihility.data 1000000
 scoreboard players set vsfix nihility.data 1
 
 forceload remove 0 0 

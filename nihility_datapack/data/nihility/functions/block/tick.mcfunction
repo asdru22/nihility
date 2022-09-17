@@ -4,3 +4,4 @@ execute if entity @s[tag=nihility.block.battery] run function nihility:block/bat
 execute if entity @s[tag=nihility.block.voidnilla_seeds] run function nihility:block/voidnilla_seeds/tick
 execute if entity @s[tag=nihility.block.magnetic_forge] run function nihility:block/magnetic_forge/tick
 execute if entity @s[tag=nihility.block.oblivion_well] run function nihility:block/oblivion_well/tick
+execute if entity @s[tag=nihility.block.thinkery_table] run function nihility:block/thinkery_table/tick

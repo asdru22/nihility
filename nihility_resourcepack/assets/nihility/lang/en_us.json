@@ -59,6 +59,9 @@
     "block.nihility.battery": "Battery",
     "block.nihility.magnetic_forge": "Magnetic Forge",
     "block.nihility.oblivion_well": "Oblivion Well",
+    "block.nihility.thinkery_table": "Thinkery Table",
+    "block.nihility.thinkery_table.gui":"\uc000 \uc002\uc001%s",
+
 
     "entity.nihility.rupture_missionary": "Rupture Survivor",
 
