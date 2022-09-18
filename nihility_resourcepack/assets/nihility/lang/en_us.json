@@ -20,7 +20,7 @@
     "item.nihility.voidnilla_jelly": "Voidnilla Jelly",
     "item.nihility.voidnilla_paste": "Voidnilla Paste",
     "item.nihility.voidnilla_shard": "Voidnilla Shard",
-        "item.nihility.voidnilla_greatsword": "Voidnilla Greatsword",
+    "item.nihility.voidnilla_greatsword": "Voidnilla Greatsword",
     "item.nihility.shadow_phoenix_feather": "Shadow Phoenix Feather",
     "item.nihility.nihilim": "Nihilim",
     "item.nihility.lapis_lightzuli":"Lapis Lightzuli",
@@ -29,6 +29,8 @@
     "item.nihility.voidmancing_glass":"Voidmancing Glass",
     "item.nihility.lustremancing_orb":"Lustremancing Orb",
     "item.nihility.daylight_oil_in_a_bottle":"Bottle of Daylight Oil",
+    "item.nihility.resonating_shield":"Resonating Shield",
+
     "item.nihility.rupture_entry_2": "???",
     "item.nihility.rupture_entry_3": "???",
     "item.nihility.rupture_entry_4": "???",
@@ -66,6 +68,8 @@
     "entity.nihility.rupture_missionary": "Rupture Survivor",
 
     "attribute.nihility.light_damage" :" %s Light Damage",
+    "attribute.nihility.shadow_shielding": " %s Shadow Shielding",
+
     "gameplay.nihility.rupture_rolls":"Rupture Rolls",
     "death.nihility.voidspawn":"%s's light dimmed out",
     "death.nihility.decanter":"%s was headbutted by Scuttler",

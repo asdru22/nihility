@@ -17,7 +17,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:6906003,smithed:{id:\"nihility:crystal_weaver\"},nihility:{enchantable:true,affected:1b,type:\"magic\",stats:{damage:15}}}"
+              "tag": "{CustomModelData:6906003,smithed:{id:\"nihility:crystal_weaver\"},nihility:{requires_ammo:1b,enchantable:true,affected:1b,type:\"magic\",stats:{damage:15}}}"
             },
             {
               "function": "minecraft:set_lore",

@@ -1,0 +1,16 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "offhand": {
+          "items": [
+            "minecraft:amethyst_shard",
+            "minecraft:glowstone_dust",
+            "minecraft:slime_ball"
+          ]
+        }
+      }
+    }
+  }
+  
