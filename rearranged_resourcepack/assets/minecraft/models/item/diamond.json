@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 6906000
+      },
+      "model": "rear:gui/tree/up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906001
+      },
+      "model": "rear:gui/tree/down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906002
+      },
+      "model": "rear:gui/tree/left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906003
+      },
+      "model": "rear:gui/tree/right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6906004
+      },
+      "model": "rear:gui/tree/connectors/ns"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/elytra"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "broken": 1
+        },
+        "model": "minecraft:item/broken_elytra"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6900000,
+          "broken": 1
+        },
+        "model": "pag:item/bunny_wings"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6900000
+        },
+        "model": "pag:item/bunny_wings"
+      }
+    ]
+  }
+  
