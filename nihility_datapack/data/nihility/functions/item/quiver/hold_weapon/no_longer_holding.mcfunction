@@ -1,8 +1,10 @@
 tag @s remove nihility.hold_arrow_consuming
-data modify storage nihility:storage root.temp.item set from entity @s Inventory[{tag:{smithed:{id:"nihility:quiver"}}}]
+execute unless score empty nihility.data matches 1 run data modify storage nihility:storage root.temp.item set from entity @s Inventory[{tag:{smithed:{id:"nihility:quiver"}}}]
 function nihility:item/quiver/lore/main
 data modify storage nihility:storage root.temp.item.tag.display.Lore set from storage nihility:storage root.temp.lore
 data modify storage nihility:storage root.temp.item.tag.HideFlags set value 127
+data modify storage nihility:storage root.temp.item.tag.nihility.IsArrow set value 0b
+
 loot replace entity @s[nbt={Inventory:[{Slot:0b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.0 loot nihility:technical/bundle
 loot replace entity @s[nbt={Inventory:[{Slot:1b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.1 loot nihility:technical/bundle
 loot replace entity @s[nbt={Inventory:[{Slot:2b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.2 loot nihility:technical/bundle

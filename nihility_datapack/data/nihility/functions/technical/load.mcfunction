@@ -14,6 +14,10 @@ scoreboard objectives add nihility.use_coas minecraft.used:minecraft.carrot_on_a
 scoreboard objectives add nihility.dmg_dealt minecraft.custom:minecraft.damage_dealt_resisted
 scoreboard objectives add nihility.trigger trigger
 
+scoreboard objectives add nihility.use_bow minecraft.used:minecraft.bow
+scoreboard objectives add nihility.use_crossbow minecraft.used:minecraft.crossbow
+
+
 schedule function nihility:technical/10_seconds 1t replace
 schedule function nihility:technical/second 1t replace
 schedule function nihility:technical/5_ticks 1t replace

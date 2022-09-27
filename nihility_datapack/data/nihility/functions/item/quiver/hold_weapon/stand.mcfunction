@@ -1,6 +1,11 @@
 data modify entity @s HandItems[0].tag set from storage nihility:storage root.temp.item.tag.nihility.QuiverItems[0].tag
+execute store result score count nihility.data run data get storage nihility:storage root.temp.item.tag.nihility.QuiverItems[0].Count
+scoreboard players add count nihility.data 1 
+execute store result entity @s HandItems[0].Count byte 1 run scoreboard players get count nihility.data
+
 data modify entity @s HandItems[0].id set from storage nihility:storage root.temp.item.tag.nihility.QuiverItems[0].id
 data modify entity @s HandItems[0].tag.nihility set from storage nihility:storage root.temp.item.tag.nihility
+data modify entity @s HandItems[0].tag.nihility.IsArrow set value 1b
 data modify entity @s HandItems[0].tag.smithed set from storage nihility:storage root.temp.item.tag.smithed
 
 item replace entity @a[tag=nihility.me,nbt={Inventory:[{Slot:0b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.0 from entity @s weapon.mainhand
