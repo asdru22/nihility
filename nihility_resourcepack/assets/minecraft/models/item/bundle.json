@@ -28,6 +28,18 @@
           "custom_model_data": 6906001,"filled":0.0000001
       },
       "model": "nihility:item/phoenix_envelope_closed"
-  }
+  },
+  {
+    "predicate": {
+        "custom_model_data": 6906002
+    },
+    "model": "nihility:item/quiver_empty"
+},
+{
+    "predicate": {
+        "custom_model_data": 6906003
+    },
+    "model": "nihility:item/quiver_arrow"
+}
   ]
 }

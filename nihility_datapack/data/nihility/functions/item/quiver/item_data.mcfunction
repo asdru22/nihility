@@ -1,3 +1,6 @@
+execute if data storage nihility:storage root.temp.item.tag.nihility{Quiver:0} run data modify storage nihility:storage root.temp.item.tag.CustomModelData set value 6906002
+execute unless data storage nihility:storage root.temp.item.tag.nihility{Quiver:0} run data modify storage nihility:storage root.temp.item.tag.CustomModelData set value 6906003
+
 item modify entity @s[nbt={Inventory:[{Slot:0b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.0 nihility:copy_nbt
 item modify entity @s[nbt={Inventory:[{Slot:1b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.1 nihility:copy_nbt
 item modify entity @s[nbt={Inventory:[{Slot:2b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.2 nihility:copy_nbt
