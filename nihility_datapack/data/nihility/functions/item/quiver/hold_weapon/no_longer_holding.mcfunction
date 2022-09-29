@@ -1,7 +1,10 @@
 tag @s remove nihility.hold_arrow_consuming
 execute unless score empty nihility.data matches 1 run data modify storage nihility:storage root.temp.item set from entity @s Inventory[{tag:{smithed:{id:"nihility:quiver"}}}]
-function nihility:item/quiver/lore/main
-data modify storage nihility:storage root.temp.item.tag.display.Lore set from storage nihility:storage root.temp.lore
+
+execute store result score arrows nihility.data run data get storage nihility:storage root.temp.item.tag.nihility.Quiver
+data remove storage nihility:storage root.temp.item.tag.display.Lore
+execute if score arrows nihility.data matches 1.. run function nihility:item/quiver/lore/main
+execute if score arrows nihility.data matches 1.. run data modify storage nihility:storage root.temp.item.tag.display.Lore set from storage nihility:storage root.temp.lore
 data modify storage nihility:storage root.temp.item.tag.HideFlags set value 127
 data modify storage nihility:storage root.temp.item.tag.nihility.IsArrow set value 0b
 execute if score empty nihility.data matches 1 run data modify storage nihility:storage root.temp.item.tag.CustomModelData set value 6906002
@@ -44,5 +47,3 @@ loot replace entity @s[nbt={Inventory:[{Slot:33b,tag:{smithed:{id:"nihility:quiv
 loot replace entity @s[nbt={Inventory:[{Slot:34b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.34 loot nihility:item/quiver_nbt
 loot replace entity @s[nbt={Inventory:[{Slot:35b,tag:{smithed:{id:"nihility:quiver"}}}]}] container.35 loot nihility:item/quiver_nbt
 loot replace entity @s[nbt={Inventory:[{Slot:-106b,tag:{smithed:{id:"nihility:quiver"}}}]}] weapon.offhand loot nihility:item/quiver_nbt
-
-tellraw @p {"nbt":"Inventory[0].tag.CustomModelData","entity":"@s"}

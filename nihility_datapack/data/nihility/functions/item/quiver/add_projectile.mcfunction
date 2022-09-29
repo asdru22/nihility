@@ -15,4 +15,4 @@ function nihility:item/quiver/list
 
 data remove storage nihility:storage root.temp.item.tag.Items[0]
 
-execute positioned ~ -100 ~ run function nihility:item/quiver/lore/main
+execute if score arrows nihility.data matches 1.. positioned ~ -100 ~ run function nihility:item/quiver/lore/main
