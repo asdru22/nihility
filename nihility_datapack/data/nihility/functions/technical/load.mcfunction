@@ -17,6 +17,8 @@ scoreboard objectives add nihility.trigger trigger
 scoreboard objectives add nihility.use_bow minecraft.used:minecraft.bow
 scoreboard objectives add nihility.use_crossbow minecraft.used:minecraft.crossbow
 
+scoreboard objectives add nihility.stat.daylight dummy
+
 
 schedule function nihility:technical/10_seconds 1t replace
 schedule function nihility:technical/second 1t replace

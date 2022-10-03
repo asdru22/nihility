@@ -9,7 +9,14 @@
         "score": "nihility.stat.daylight"
       },
       "range": {
-        "min": 1
+        "min": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "cost"
+          },
+          "score": "nihility.data"
+        }
       }
     },
     {
@@ -19,9 +26,7 @@
         "equipment": {
           "offhand": {
             "items": [
-              "minecraft:slime_ball",
-              "minecraft:glowstone_dust",
-              "minecraft:amethyst_shard"
+              "minecraft:glowstone_dust"
             ]
           }
         }
