@@ -186,6 +186,6 @@
     "item.nihility.lore.stat.armor":"Defense: %s",
     "item.nihility.lore.stat.armor_toughness":"Armor Toughness: %s",
     "item.nihility.lore.stat.max_health":"Health: %s",
-    "item.nihility.lore.stat.movment_speed":"Speed: %s"
+    "item.nihility.lore.stat.movement_speed":"Speed: %s"
 
 }
