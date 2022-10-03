@@ -173,5 +173,19 @@
     "advancements.nihility.nihility.journal1.description":"Obtain a Rupture Log from a survivor of the Void ",
 
     "subtitle.nihility.block.battery.charge": "Battery Charges",
-    "subtitle.nihility.block.battery.break": "Battery Breaks"
+    "subtitle.nihility.block.battery.break": "Battery Breaks",
+
+    "item.nihility.lore.material.metal":"Metallic",
+
+    "item.nihility.lore.type.melee":"Melee Weapon",
+     
+    "item.nihility.lore.stat.attack_damage":"Attack Damage: %s",
+    "item.nihility.lore.stat.attack_speed":"Attack Speed: %s",
+    "item.nihility.lore.stat.light_damage":"Light Damage: %s",
+    "item.nihility.lore.stat.knockback_resistance":"Knockback Resistance: %s%%",
+    "item.nihility.lore.stat.armor":"Defense: %s",
+    "item.nihility.lore.stat.armor_toughness":"Armor Toughness: %s",
+    "item.nihility.lore.stat.max_health":"Health: %s",
+    "item.nihility.lore.stat.movment_speed":"Speed: %s"
+
 }

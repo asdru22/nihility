@@ -84,6 +84,12 @@
               "custom_model_data": 6906012
           },
           "model": "nihility:block/thinkery_table"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6906013
+          },
+          "model": "nihility:block/awakening_table"
       }
   ]
 }
