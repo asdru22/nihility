@@ -6,4 +6,4 @@ execute if entity @s[tag=nihility.slime,nbt={OnGround:1b}] run function nihility
 
 execute if entity @s[type=armor_stand,tag=nihility.block.oblivion_well,scores={nihility.data=0..}] positioned ~ ~-0.5 ~ rotated ~ -90 run function nihility:block/oblivion_well/animation/particle
 
-execute if entity @s[tag=nihility.entity.custom] run function nihility:entity/void_spawn/tick
+#execute if entity @s[tag=nihility.entity.custom] run function nihility:entity/void_spawn/tick

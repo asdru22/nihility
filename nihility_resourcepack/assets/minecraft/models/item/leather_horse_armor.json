@@ -30,49 +30,25 @@
       "predicate":{
         "custom_model_data":6901013
       },
-      "model":"nihility:entity/dechanter/idle"
+      "model":"nihility:entity/scuttler/idle"
     },
     {
       "predicate":{
         "custom_model_data":6901014
       },
-      "model":"nihility:entity/dechanter/head"
+      "model":"nihility:entity/scuttler/head"
     },
     {
       "predicate":{
         "custom_model_data":6901015
       },
-      "model":"nihility:entity/dechanter/walking"
+      "model":"nihility:entity/scuttler/walking"
     },
     {
       "predicate":{
         "custom_model_data":6901016
       },
-      "model":"nihility:entity/dechanter/a0"
-    },
-    {
-      "predicate":{
-        "custom_model_data":6901017
-      },
-      "model":"nihility:entity/dechanter/a1"
-    },
-    {
-      "predicate":{
-        "custom_model_data":6901018
-      },
-      "model":"nihility:entity/dechanter/a2"
-    },
-    {
-      "predicate":{
-        "custom_model_data":6901019
-      },
-      "model":"nihility:entity/dechanter/a3"
-    },
-    {
-      "predicate":{
-        "custom_model_data":6901020
-      },
-      "model":"nihility:entity/dechanter/a4"
+      "model":"nihility:entity/scuttler/attacking"
     }
   ]
 }
