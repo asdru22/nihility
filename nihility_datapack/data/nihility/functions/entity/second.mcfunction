@@ -9,3 +9,5 @@ execute if entity @s[tag=nihility.void_spawn] run function nihility:entity/void_
 execute if entity @s[type=armor_stand,tag=nihility.block.oblivion_well,scores={nihility.data=0..}] run function nihility:block/oblivion_well/animation/second
 
 execute if entity @s[tag=nihility.entity.custom] run function nihility:entity/void_spawn/custom/second
+
+execute if entity @s[tag=nihility.button] run data merge entity @s {Offers:{Recipes:[]},ActiveEffects:[{Id:14,Amplifier:5b,Duration:10000,ShowParticles:0b}]}

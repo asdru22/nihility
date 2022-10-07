@@ -9,6 +9,8 @@ scoreboard objectives add nihility.x dummy
 scoreboard objectives add nihility.z dummy
 scoreboard objectives add nihility.vars dummy
 scoreboard objectives add nihility.dash_timer dummy
+scoreboard objectives add nihility.treeX dummy
+scoreboard objectives add nihility.treeZ dummy
 
 scoreboard objectives add nihility.use_coas minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add nihility.dmg_dealt minecraft.custom:minecraft.damage_dealt_resisted
